@@ -38,7 +38,8 @@ if section == "👥 Students":
     st.subheader("Students Data")
     # Since we're fetching data in other sections, you might want to fetch /students here too
     try:
-        response = requests.get("http://localhost:8000/students")
+        #response = requests.get("http://localhost:8000/students")
+        response = requests.get("http://127.0.0.1:8000/students")
         response.raise_for_status()
         students_df = pd.DataFrame(response.json())
         st.dataframe(students_df)
