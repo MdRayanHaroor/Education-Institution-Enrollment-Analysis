@@ -1,0 +1,21 @@
+Course_ID,Course_Name,Department,Semester_Offered,Max_Capacity,Enrolled_Students_Count,Instructor_ID
+C000,Course_0,Computer Science,5,49,56,I1
+C001,Course_1,Management,1,45,25,I2
+C002,Course_2,Management,3,54,14,I3
+C003,Course_3,Management,1,51,44,I4
+C004,Course_4,Management,3,42,21,I5
+C005,Course_5,Management,4,56,34,I1
+C006,Course_6,Mathematics,2,48,30,I2
+C007,Course_7,Computer Science,1,46,45,I3
+C008,Course_8,Mathematics,6,33,32,I4
+C009,Course_9,Management,5,41,25,I5
+C010,Course_10,Computer Science,4,58,48,I1
+C011,Course_11,Management,1,38,54,I2
+C012,Course_12,Computer Science,5,48,51,I3
+C013,Course_13,Mathematics,1,41,48,I4
+C014,Course_14,Computer Science,3,38,23,I5
+C015,Course_15,Computer Science,1,36,40,I1
+C016,Course_16,Computer Science,6,57,14,I2
+C017,Course_17,Computer Science,1,43,44,I3
+C018,Course_18,Computer Science,1,49,32,I4
+C019,Course_19,Management,6,48,38,I5

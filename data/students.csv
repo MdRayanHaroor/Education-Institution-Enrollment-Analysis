@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Age,Program,Semester,Enrollment_Year,Enrollment_Status
+S1000,Student_0,Male,19,MCA,6,2022,Dropped
+S1001,Student_1,Female,27,MBA,4,2023,Active
+S1002,Student_2,Male,29,BSc CS,5,2021,Dropped
+S1003,Student_3,Male,19,MBA,5,2023,Dropped
+S1004,Student_4,Male,27,MCA,3,2021,Graduated
+S1005,Student_5,Female,21,BSc CS,1,2023,Dropped
+S1006,Student_6,Male,25,BSc CS,1,2022,Graduated
+S1007,Student_7,Male,24,BSc CS,3,2021,Active
+S1008,Student_8,Male,29,MBA,3,2022,Graduated
+S1009,Student_9,Female,26,MCA,3,2021,Active
+S1010,Student_10,Male,25,BSc CS,4,2022,Graduated
+S1011,Student_11,Male,22,BSc CS,6,2022,Dropped
+S1012,Student_12,Male,19,BSc CS,1,2021,Dropped
+S1013,Student_13,Male,22,MBA,4,2021,Active
+S1014,Student_14,Female,25,MBA,3,2021,Active
+S1015,Student_15,Male,27,MCA,1,2020,Active
+S1016,Student_16,Female,26,MBA,4,2023,Graduated
+S1017,Student_17,Female,29,BSc CS,6,2020,Graduated
+S1018,Student_18,Female,29,MCA,4,2020,Active
+S1019,Student_19,Male,29,BSc CS,6,2022,Dropped
+S1020,Student_20,Female,26,BSc CS,3,2021,Graduated
+S1021,Student_21,Male,18,MBA,6,2023,Graduated
+S1022,Student_22,Female,26,MCA,1,2022,Graduated
+S1023,Student_23,Female,24,MBA,3,2020,Active
+S1024,Student_24,Female,26,MBA,1,2021,Active
+S1025,Student_25,Female,25,MCA,5,2022,Active
+S1026,Student_26,Female,18,BSc CS,2,2021,Active
+S1027,Student_27,Female,29,BSc CS,6,2022,Active
+S1028,Student_28,Female,25,MCA,2,2021,Dropped
+S1029,Student_29,Female,25,BSc CS,2,2020,Dropped
+S1030,Student_30,Male,28,MCA,6,2023,Active
+S1031,Student_31,Male,20,MCA,3,2020,Graduated
+S1032,Student_32,Female,18,MBA,5,2023,Active
+S1033,Student_33,Female,25,MCA,1,2021,Dropped
+S1034,Student_34,Female,20,MBA,4,2022,Dropped
+S1035,Student_35,Male,20,BSc CS,1,2020,Graduated
+S1036,Student_36,Female,18,BSc CS,4,2023,Dropped
+S1037,Student_37,Male,28,BSc CS,1,2020,Active
+S1038,Student_38,Male,22,BSc CS,6,2023,Graduated
+S1039,Student_39,Male,27,MBA,5,2020,Active
+S1040,Student_40,Male,24,BSc CS,4,2023,Active
+S1041,Student_41,Male,27,MCA,3,2023,Graduated
+S1042,Student_42,Female,26,MCA,1,2021,Active
+S1043,Student_43,Female,29,MCA,1,2023,Dropped
+S1044,Student_44,Female,24,MBA,4,2021,Active
+S1045,Student_45,Female,26,BSc CS,3,2023,Graduated
+S1046,Student_46,Female,25,BSc CS,3,2022,Graduated
+S1047,Student_47,Male,29,BSc CS,6,2022,Graduated
+S1048,Student_48,Female,19,MBA,6,2022,Active
+S1049,Student_49,Female,18,MCA,6,2023,Graduated
+S1050,Student_50,Male,24,MCA,6,2021,Graduated
+S1051,Student_51,Female,24,BSc CS,6,2021,Active
+S1052,Student_52,Male,25,MCA,6,2023,Dropped
+S1053,Student_53,Female,22,MCA,5,2022,Active
+S1054,Student_54,Male,20,MBA,3,2022,Graduated
+S1055,Student_55,Female,29,MBA,6,2021,Graduated
+S1056,Student_56,Female,25,MBA,3,2022,Active
+S1057,Student_57,Male,23,MBA,3,2020,Dropped
+S1058,Student_58,Male,28,BSc CS,2,2021,Graduated
+S1059,Student_59,Male,20,MBA,5,2022,Graduated
+S1060,Student_60,Male,18,MCA,6,2021,Graduated
+S1061,Student_61,Male,20,BSc CS,1,2020,Active
+S1062,Student_62,Male,22,MCA,4,2021,Graduated
+S1063,Student_63,Male,20,MCA,1,2021,Dropped
+S1064,Student_64,Male,18,MCA,5,2021,Graduated
+S1065,Student_65,Female,22,MBA,4,2021,Graduated
+S1066,Student_66,Female,27,MBA,5,2020,Dropped
+S1067,Student_67,Male,24,BSc CS,3,2023,Graduated
+S1068,Student_68,Female,24,BSc CS,4,2021,Active
+S1069,Student_69,Female,28,MBA,3,2021,Active
+S1070,Student_70,Female,26,MCA,1,2022,Active
+S1071,Student_71,Female,27,BSc CS,1,2021,Dropped
+S1072,Student_72,Male,27,MBA,4,2022,Graduated
+S1073,Student_73,Female,29,MBA,4,2023,Active
+S1074,Student_74,Male,20,MBA,6,2020,Dropped
+S1075,Student_75,Female,24,MCA,5,2020,Graduated
+S1076,Student_76,Female,18,MBA,6,2023,Dropped
+S1077,Student_77,Female,21,MBA,5,2020,Active
+S1078,Student_78,Male,21,MBA,6,2023,Active
+S1079,Student_79,Female,22,MBA,3,2023,Active
+S1080,Student_80,Male,24,BSc CS,4,2023,Dropped
+S1081,Student_81,Female,24,BSc CS,1,2020,Dropped
+S1082,Student_82,Male,28,MBA,5,2022,Active
+S1083,Student_83,Female,21,MCA,5,2023,Dropped
+S1084,Student_84,Male,24,BSc CS,1,2021,Active
+S1085,Student_85,Male,28,MBA,6,2020,Active
+S1086,Student_86,Female,20,BSc CS,5,2023,Graduated
+S1087,Student_87,Male,23,BSc CS,3,2023,Dropped
+S1088,Student_88,Female,29,MCA,4,2021,Active
+S1089,Student_89,Female,19,MBA,1,2022,Active
+S1090,Student_90,Female,27,MBA,4,2022,Dropped
+S1091,Student_91,Female,26,MCA,5,2022,Graduated
+S1092,Student_92,Female,22,MCA,5,2023,Graduated
+S1093,Student_93,Female,23,MBA,1,2023,Active
+S1094,Student_94,Female,29,MBA,3,2023,Dropped
+S1095,Student_95,Female,29,MCA,2,2020,Graduated
+S1096,Student_96,Female,29,BSc CS,1,2021,Dropped
+S1097,Student_97,Female,29,BSc CS,2,2023,Dropped
+S1098,Student_98,Female,21,MCA,6,2021,Active
+S1099,Student_99,Male,28,BSc CS,2,2021,Graduated

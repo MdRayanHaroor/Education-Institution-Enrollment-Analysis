@@ -1,0 +1,6 @@
+Instructor_ID,Name,Department,Average_Student_Feedback_Score,Graduation_Success_Rate,Course_IDs_Taught
+I1,Faculty_1,Mathematics,9.26,97.99,"C000,C005,C010,C015"
+I2,Faculty_2,Computer Science,8.74,89.03,"C001,C006,C011,C016"
+I3,Faculty_3,Computer Science,6.65,84.54,"C002,C007,C012,C017"
+I4,Faculty_4,Computer Science,9.64,76.73,"C003,C008,C013,C018"
+I5,Faculty_5,Computer Science,9.29,97.31,"C004,C009,C014,C019"

@@ -1,0 +1,35 @@
+Student_ID,Name,Gender,Age,Program,Semester,Enrollment_Year,Enrollment_Status,Graduation_Year,GPA,Category
+S1004,Student_4,Male,27,MCA,3,2021,Graduated,2025,7.69,OBC
+S1006,Student_6,Male,25,BSc CS,1,2022,Graduated,2026,7.32,OBC
+S1008,Student_8,Male,29,MBA,3,2022,Graduated,2025,8.47,SC
+S1010,Student_10,Male,25,BSc CS,4,2022,Graduated,2026,6.87,ST
+S1016,Student_16,Female,26,MBA,4,2023,Graduated,2025,7.16,SC
+S1017,Student_17,Female,29,BSc CS,6,2020,Graduated,2023,7.52,General
+S1020,Student_20,Female,26,BSc CS,3,2021,Graduated,2024,6.89,SC
+S1021,Student_21,Male,18,MBA,6,2023,Graduated,2025,7.42,ST
+S1022,Student_22,Female,26,MCA,1,2022,Graduated,2024,8.0,OBC
+S1031,Student_31,Male,20,MCA,3,2020,Graduated,2023,8.59,ST
+S1035,Student_35,Male,20,BSc CS,1,2020,Graduated,2024,8.69,ST
+S1038,Student_38,Male,22,BSc CS,6,2023,Graduated,2026,8.88,ST
+S1041,Student_41,Male,27,MCA,3,2023,Graduated,2025,8.6,OBC
+S1045,Student_45,Female,26,BSc CS,3,2023,Graduated,2026,8.38,ST
+S1046,Student_46,Female,25,BSc CS,3,2022,Graduated,2024,6.83,ST
+S1047,Student_47,Male,29,BSc CS,6,2022,Graduated,2025,7.4,ST
+S1049,Student_49,Female,18,MCA,6,2023,Graduated,2027,7.67,General
+S1050,Student_50,Male,24,MCA,6,2021,Graduated,2024,6.29,ST
+S1054,Student_54,Male,20,MBA,3,2022,Graduated,2025,7.85,OBC
+S1055,Student_55,Female,29,MBA,6,2021,Graduated,2023,7.53,ST
+S1058,Student_58,Male,28,BSc CS,2,2021,Graduated,2023,8.81,ST
+S1059,Student_59,Male,20,MBA,5,2022,Graduated,2024,9.42,OBC
+S1060,Student_60,Male,18,MCA,6,2021,Graduated,2024,7.95,ST
+S1062,Student_62,Male,22,MCA,4,2021,Graduated,2025,7.13,OBC
+S1064,Student_64,Male,18,MCA,5,2021,Graduated,2023,6.15,ST
+S1065,Student_65,Female,22,MBA,4,2021,Graduated,2023,9.24,OBC
+S1067,Student_67,Male,24,BSc CS,3,2023,Graduated,2026,9.22,ST
+S1072,Student_72,Male,27,MBA,4,2022,Graduated,2024,6.89,ST
+S1075,Student_75,Female,24,MCA,5,2020,Graduated,2024,8.43,General
+S1086,Student_86,Female,20,BSc CS,5,2023,Graduated,2027,6.26,General
+S1091,Student_91,Female,26,MCA,5,2022,Graduated,2024,6.58,ST
+S1092,Student_92,Female,22,MCA,5,2023,Graduated,2025,6.76,ST
+S1095,Student_95,Female,29,MCA,2,2020,Graduated,2023,7.03,SC
+S1099,Student_99,Male,28,BSc CS,2,2021,Graduated,2025,9.49,OBC
